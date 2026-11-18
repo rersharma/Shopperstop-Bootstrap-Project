@@ -1,0 +1,8 @@
+
+@media (min-width:992px){
+#carouselExampleAutoplaying .carousel-inner .carousel-item img{
+    width: 100%;
+    height: 800px;
+    object-fit: cover;
+}
+}
