@@ -6,3 +6,31 @@
     object-fit: cover;
 }
 }
+.locationdiv{
+    margin-top:9%;
+}
+
+@media (max-width:992px){
+    .locationdiv{
+    margin-top:16%;
+}
+}
+
+@media(max-width:576px){
+    .locationdiv{
+    margin-top:34%;
+}
+}
+
+.explore-button{
+    background-color: black;
+    color:white;
+    padding:20px;
+    border: none;
+    border-radius: 25px;
+}
+.explore-button:hover{
+    background-color: red;
+    color:white;
+}
+
